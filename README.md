@@ -40,7 +40,7 @@ Automatically adds `.env`, `.claude/settings.local.json`, `*.pem`, and `*.key` t
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/claude-code-security-kit
+git clone https://github.com/kagioneko/claude-code-security-kit
 cd claude-code-security-kit
 bash install.sh
 ```

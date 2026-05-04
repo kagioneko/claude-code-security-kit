@@ -43,7 +43,7 @@ Claude Codeは強力なツールですが、その強力さゆえのリスクも
 ## インストール
 
 ```bash
-git clone https://github.com/[your-username]/claude-code-security-kit
+git clone https://github.com/kagioneko/claude-code-security-kit
 cd claude-code-security-kit
 bash install.sh
 ```
